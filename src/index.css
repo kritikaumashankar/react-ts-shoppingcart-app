@@ -45,6 +45,7 @@ img {
 .main {
     display: flex;
     gap: 1rem;
+    height: 80vh;
 }
 
 .main--products {
